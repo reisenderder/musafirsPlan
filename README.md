@@ -2,6 +2,15 @@
 
 Рабочая папка для разработки месячного плана самостоятельного дня сына и его последующей настройки в Todoist.
 
+## Управление работами
+
+- Текущие и завершенные работы: [`WORK_PLANS.md`](WORK_PLANS.md).
+- История решений и изменений: [`CHANGELOG.md`](CHANGELOG.md).
+- Зафиксированный контекст: [`docs/context.md`](docs/context.md).
+- Цели и стартовая диагностика: [`docs/month-01-goals-and-diagnostics.md`](docs/month-01-goals-and-diagnostics.md).
+- Черновик структуры Todoist: [`todoist/plan-draft.md`](todoist/plan-draft.md).
+- Активная ветка базового плана: `work/base-plan-mvp`.
+
 ## Текущий статус
 
 1. Исходный PDF и общий чат изучены.
