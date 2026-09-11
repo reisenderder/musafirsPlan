@@ -234,8 +234,8 @@
 
 ## Git-передача
 
-- **Коммит:** ожидается.
-- **Push:** ожидается.
+- **Коммит реализации:** `2fb4a6d` (`Implement Telegram ingestion foundation`).
+- **Push:** ветка `work/telegram-ingestion-bot` отправлена в `origin`.
 - **Pull Request:** выполняет пользователь.
 - **Merge:** выполняет пользователь.
 
