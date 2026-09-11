@@ -7,6 +7,8 @@
 - Текущие и завершенные работы: [`WORK_PLANS.md`](WORK_PLANS.md).
 - История решений и изменений: [`CHANGELOG.md`](CHANGELOG.md).
 - Правила и журналы обсуждений: [`docs/discussions/`](docs/discussions/README.md).
+- Telegram-сборщик: [`docs/telegram-ingestion.md`](docs/telegram-ingestion.md).
+- Дорожная карта Telegram-конвейера: [`docs/telegram-education-roadmap.md`](docs/telegram-education-roadmap.md).
 - Зафиксированный контекст: [`docs/context.md`](docs/context.md).
 - Цели и стартовая диагностика: [`docs/month-01-goals-and-diagnostics.md`](docs/month-01-goals-and-diagnostics.md).
 - Расписание первого месяца: [`docs/month-01-schedule.md`](docs/month-01-schedule.md).
@@ -27,12 +29,14 @@
 6. В Todoist создан и проверен проект `План Мусафира`: 10 разделов и 243 задачи, включая 150 точных молитвенных блоков.
 7. Точные молитвенные и дневные блоки на весь период рассчитаны и записаны в `docs/month-01-schedule.md`.
 8. Два адаптационных дня запуска подробно подготовлены; дальнейшее содержание будет определено по их результатам.
+9. Реализуется WP-003: локальный сборщик образовательных материалов из Telegram с родительским отбором.
 
 ## Безопасность
 
 - API-токен Todoist не хранится в этой папке.
 - Источник токена остается: `C:\Users\Bergmann\Desktop\angular\sicherheit\todoist.txt`.
 - Токен нельзя добавлять в документы, журналы, исходный код или систему контроля версий.
+- Telegram-токены, база, принятые материалы и работы ребёнка хранятся только локально и исключены из Git.
 
 ## Следующие этапы
 
