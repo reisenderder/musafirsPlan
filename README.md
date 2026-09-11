@@ -6,12 +6,16 @@
 
 - Текущие и завершенные работы: [`WORK_PLANS.md`](WORK_PLANS.md).
 - История решений и изменений: [`CHANGELOG.md`](CHANGELOG.md).
+- Правила и журналы обсуждений: [`docs/discussions/`](docs/discussions/README.md).
 - Зафиксированный контекст: [`docs/context.md`](docs/context.md).
 - Цели и стартовая диагностика: [`docs/month-01-goals-and-diagnostics.md`](docs/month-01-goals-and-diagnostics.md).
 - Расписание первого месяца: [`docs/month-01-schedule.md`](docs/month-01-schedule.md).
 - Два адаптационных дня запуска: [`docs/adaptive-launch-days-01-02.md`](docs/adaptive-launch-days-01-02.md).
 - Структура Todoist: [`todoist/plan-draft.md`](todoist/plan-draft.md).
-- Активная ветка расписания: `work/month-01-schedule`.
+- Текущая работа и её ветка всегда указаны в `WORK_PLANS.md`.
+
+Для возвращения к сохранённому обсуждению используется проектная команда
+`/resume <WP-ID>`, например `/resume WP-003`.
 
 ## Текущий статус
 
