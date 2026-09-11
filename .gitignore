@@ -1,11 +1,18 @@
-# Никогда не сохранять секреты Todoist в этой папке
+# Никогда не сохранять секреты Todoist или Telegram в этой папке
 .env
 .env.*
+!.env.example
 *token*
 *secret*
 todoist.txt
 
-# Временные и диагностические файлы
+# Временные, диагностические и локальные пользовательские файлы
 tmp/
 logs/
 *.log
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+var/
+telegram-data/
